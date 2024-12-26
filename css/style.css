@@ -1,0 +1,40 @@
+table{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    font-weight: 300;
+    border: 1px solid gray;
+    border-spacing: 0;
+    
+}
+thead{
+    color: white;
+    background-color: rgb(64, 64, 64);
+    
+}
+th{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.b1{
+    background-color: rgb(65, 182, 245);
+    color: white;
+    border: none;
+}
+.b2{
+    background-color: rgb(233, 30, 99);
+    color: white;
+    border: none;
+}
+td{
+    background-color:rgb(238, 238, 238) ;
+    border: 1px solid gray;
+}
+tr{
+    padding: 10px;
+    margin: 5px;
+    
+}
+img{
+    margin: 5px;
+}
